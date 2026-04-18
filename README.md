@@ -7,8 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Ứng dụng trực quan hóa thuật toán **Floyd–Warshall** để giải bài toán **All-Pairs Shortest Path** trên đồ thị có trọng số.
-
----
 ---
 
 ## ✨ Features
