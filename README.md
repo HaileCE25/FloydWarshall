@@ -9,23 +9,6 @@
 Ứng dụng trực quan hóa thuật toán **Floyd–Warshall** để giải bài toán **All-Pairs Shortest Path** trên đồ thị có trọng số.
 
 ---
-
-## 📸 Demo
-
-### 🔹 Giao diện chính
-![Main UI](docs/images/main_ui.png)
-
-### 🔹 Ma trận qua từng bước k
-![Step Visualization](docs/images/floyd_steps.png)
-
-### 🔹 Trực quan đồ thị
-![Graph](docs/images/graph.png)
-
----
-
-## 🎥 Demo GIF
-![Demo GIF](docs/gif/demo.gif)
-
 ---
 
 ## ✨ Features
@@ -59,11 +42,3 @@ FloydWarshall/
 ├── Weight_Matrix.csv
 └── README.md
 ```
-
-
-
----
-
-Nếu bạn muốn “xịn hơn nữa”, mình có thể làm thêm:
-- :contentReference[oaicite:0]{index=0}
-- Hoặc :contentReference[oaicite:1]{index=1} 👍
