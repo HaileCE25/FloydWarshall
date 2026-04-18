@@ -12,7 +12,7 @@
 **1. Tải mã nguồn về máy (Clone Repository):**
 Mở Terminal/Command Prompt và chạy lệnh sau để tải dự án từ GitHub:
 ```bash
-git clone [https://github.com/your-username/FloydWarshall.git](https://github.com/your-username/FloydWarshall.git)
+git clone https://github.com/HaileCE25/FloydWarshall
 cd FloydWarshall
 ```
 **2. Cài đặt thư viện:**
