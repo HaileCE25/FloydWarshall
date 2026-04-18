@@ -52,59 +52,14 @@
 
 ## 📂 Project Structure
 
+```text
 FloydWarshall/
-│── FloyWarshall.py
-│── MST.csv
-│── Weight_Matrix.csv
-│
-├── docs/
-│ ├── images/
-│ │ ├── main_ui.png
-│ │ ├── floyd_steps.png
-│ │ └── graph.png
-│ └── gif/
-│ └── demo.gif
-│
+├── FloyWarshall.py
+├── MST.csv
+├── Weight_Matrix.csv
 └── README.md
+```
 
-
----
-
-## 📥 Input Format
-
-### 1. Edge List
-```csv
-From,To,Distance
-City1,City2,10
-City2,City3,5
-2. Adjacency Matrix
-CSV dạng ma trận vuông
-0, rỗng hoặc NaN → ∞
-▶️ Usage
-python FloyWarshall.py
-Quy trình:
-Chọn dữ liệu đầu vào
-Nhập số đỉnh
-Chạy thuật toán
-Duyệt từng bước k
-Tìm đường đi ngắn nhất
-📤 Output
-Ma trận khoảng cách cuối
-Đường đi ngắn nhất
-File:
-Weight_Matrix.csv
-Weight_Matrix_kxk.csv
-⚠️ Notes
-Có kiểm tra chu trình âm
-Nên dùng format City1, City2, ...
-Dữ liệu sai sẽ báo lỗi
-🔮 Future Work
-Thêm Dijkstra, Bellman-Ford
-Cải thiện UI/UX
-Tối ưu hiệu năng
-📄 License
-
-MIT License
 
 
 ---
