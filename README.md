@@ -8,7 +8,19 @@
 
 Ứng dụng trực quan hóa thuật toán **Floyd–Warshall** để giải bài toán **All-Pairs Shortest Path** trên đồ thị có trọng số.
 ---
-
+## 📥 Cài đặt và Sử dụng
+**1. Tải mã nguồn về máy (Clone Repository):**
+Mở Terminal/Command Prompt và chạy lệnh sau để tải dự án từ GitHub:
+```bash
+git clone [https://github.com/your-username/FloydWarshall.git](https://github.com/your-username/FloydWarshall.git)
+cd FloydWarshall
+```
+**2. Cài đặt thư viện:**
+Mở Terminal/Command Prompt và chạy lệnh sau:
+```bash
+pip install pandas numpy networkx matplotlib pillow
+```
+---
 ## ✨ Features
 - 📂 Đọc dữ liệu từ CSV (Edge list / Adjacency matrix)  
 - 🧮 Tạo ma trận trọng số tự động  
